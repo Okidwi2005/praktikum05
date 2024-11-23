@@ -128,4 +128,4 @@ while True:
   - Keluar: Menghentikan program.
 4. Validasi dilakukan untuk memastikan NIM unik saat menambah data atau keberadaan NIM saat mengubah/menghapus/cari data.
 ## Flowchart
-![Screenshot 2024-11-23 191912](https://github.com/user-attachments/assets/79fc306a-9d81-4ee4-9101-3a0f772aa23c)
+![Screenshot 2024-11-23 192204](https://github.com/user-attachments/assets/e9755def-bd94-432a-ad4c-5b38b7be4cbc)
